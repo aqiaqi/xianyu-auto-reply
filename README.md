@@ -5,9 +5,7 @@
 [![Python](https://img.shields.io/badge/Python-3.11+-green?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-仅供学习-red.svg)](#️-版权声明与使用条款)
 
-## 最新代码获取地址（尽量转存）
 
-https://pan.baidu.com/s/1I6muOGJQYd6y3oxQSmtvrQ?pwd=gcpd
 
 ## 📋 项目概述
 
